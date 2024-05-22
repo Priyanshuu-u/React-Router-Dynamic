@@ -1,0 +1,33 @@
+.Home {
+    border: 1px solid black;
+    background-color: blanchedalmond;
+
+}
+
+.Home img {
+    width: 400px;
+    height: 400px;
+}
+
+.About {
+    border: 1px solid black;
+    background-color: cadetblue;
+}
+
+.Education {
+    border: 1px solid black;
+    background-color: darkcyan;
+}
+
+.Secondary {
+    border: 1px solid black;
+    background-color: darkcyan;
+}
+
+.Graduation {
+    border: 1px solid black;
+    background-color: darkcyan;
+}
+:active{
+color:blueviolet
+}
